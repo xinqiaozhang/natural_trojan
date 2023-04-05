@@ -1,3 +1,3 @@
 # natural_trojan
 
-This repo is used to record natural trojans that found in TrojAI dataset
+This repo is used to record natural trojans for TrojAI dataset
