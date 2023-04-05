@@ -1,0 +1,9 @@
+2023-04-04 16:29:32,141 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Gotham_filter, source and target classes are: 1,0
+2023-04-04 16:29:32,178 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Toaster_filter, source and target classes are: 1,0
+2023-04-04 16:29:32,431 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Gotham_filter, source and target classes are: 2,0
+2023-04-04 16:29:32,467 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Toaster_filter, source and target classes are: 2,0
+2023-04-04 16:29:32,753 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Toaster_filter, source and target classes are: 3,0
+2023-04-04 16:29:33,007 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Gotham_filter, source and target classes are: 4,0
+2023-04-04 16:29:33,026 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Kelvin_filter, source and target classes are: 4,5
+2023-04-04 16:29:33,044 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Toaster_filter, source and target classes are: 4,0
+2023-04-04 16:29:33,340 Potential natural trigger is found, Model is: id-00000000, label is 0, filter_name is Toaster_filter, source and target classes are: 5,0
